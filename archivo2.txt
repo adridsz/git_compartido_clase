@@ -1,1 +1,2 @@
 Archivo para merge con commit
+modificacion para conflicto
